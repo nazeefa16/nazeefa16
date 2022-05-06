@@ -1,5 +1,5 @@
 - Hi, I’m Nazeefa Muzammil
-- I am currently getting by Bachelors degree in Electrical Engineering at NUST,Pakistan
+- I am currently getting my Bachelors degree in Electrical Engineering at NUST,Pakistan
 - 👀 I’m interested in projects related to Machine Learning, Artificial Intelligence
 - 🌱 I’m currently learning Python,Machine Learning,it's algorithms and it's implementation
 - 💞 I’m looking to collaborate on projects related to Machine Learning
