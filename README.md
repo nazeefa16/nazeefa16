@@ -2,15 +2,10 @@
 [![LinkedIn](https://drive.google.com/file/d/1rFCxA2WClYJTy2W0QpTKLO6qLHQ-MAMw/view?usp=sharing)](https://www.linkedin.com/in/nazeefa-muzammil-06a2011a5/)
 
 
-[![](https://drive.google.com/file/d/1Fbf0PhMJZeg6UQGTVBcOvxDno6iB7PrG/view?usp=sharing)](mailto:nazeefa1609@gmail.com)
-
 - 👋 Hi, I’m Nazeefa Muzammil
 - 🎓 I'm currently getting my Bachelors degree in Electrical Engineering at NUST,Pakistan
 - 💻 I’m interested in projects related to Data Science, and Machine Learning
 - 💁 I’m open to diversity, and to collaborate
-- https://www.linkedin.com/in/nazeefa-muzammil-06a2011a5/
-
-
 
 -**I can work with the following tools for now**
 
