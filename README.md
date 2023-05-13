@@ -1,6 +1,4 @@
-[<img src="https://drive.google.com/file/d/1Fbf0PhMJZeg6UQGTVBcOvxDno6iB7PrG/view?usp=sharing">](mailto:nazeefa1609@gmail.com)
-
-
+[![Gmail](https://drive.google.com/file/d/1Fbf0PhMJZeg6UQGTVBcOvxDno6iB7PrG/view?usp=sharing)](mailto:nazeefa1609@gmail.com)
 [![LinkedIn](https://drive.google.com/file/d/1aDU8Dc23Z_yyaleJnr1B6pv9vs-2Ka-6/view?usp=sharing)](https://www.linkedin.com/in/nazeefa-muzammil-06a2011a5/)
 
 
