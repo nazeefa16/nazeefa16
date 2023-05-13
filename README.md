@@ -9,7 +9,7 @@
 
 -**I can work with the following tools for now**
 
-Maltab,![logo-karlovac-brand-graphic-design-font-png-favpng-Q6xTQcnjX1MQc1CtPBwiYHB4S](https://github.com/nazeefa16/nazeefa16/assets/101979506/139dc4e1-8f3a-4c1a-97fc-c4287c8eb2ae)
+Maltab,!(https://github.com/nazeefa16/nazeefa16/assets/101979506/139dc4e1-8f3a-4c1a-97fc-c4287c8eb2ae)
 
 Visual Studio/C++,
 Proteus
