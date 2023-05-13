@@ -8,8 +8,6 @@
 - 💁 I’m open to diversity, and to collaborate
 
 
-Languages and Tools:
-arduino bash c cplusplus gcp git linux matlab mysql python pytorch scala scikit_learn selenium
 
 
 nazeefa16/nazeefa16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
