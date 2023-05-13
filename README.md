@@ -1,5 +1,5 @@
 [![Gmail](https://drive.google.com/file/d/1Fbf0PhMJZeg6UQGTVBcOvxDno6iB7PrG/view?usp=sharing)](mailto:nazeefa1609@gmail.com)
-[![LinkedIn](https://drive.google.com/file/d/1rFCxA2WClYJTy2W0QpTKLO6qLHQ-MAMw/view?usp=sharing)](https://www.linkedin.com/in/nazeefa-muzammil-06a2011a5/)
+[![LinkedIn](https://drive.google.com/file/d/1aDU8Dc23Z_yyaleJnr1B6pv9vs-2Ka-6/view?usp=sharing)](https://www.linkedin.com/in/nazeefa-muzammil-06a2011a5/)
 
 
 - 👋 Hi, I’m Nazeefa Muzammil
@@ -7,16 +7,11 @@
 - 💻 I’m interested in projects related to Data Science, and Machine Learning
 - 💁 I’m open to diversity, and to collaborate
 
--**I can work with the following tools for now**
 
-![Matlab](https://www.pngwing.com/en/free-png-tovcg)
-(https://github.com/nazeefa16/nazeefa16/assets/101979506/139dc4e1-8f3a-4c1a-97fc-c4287c8eb2ae)
+Languages and Tools:
+arduino bash c cplusplus gcp git linux matlab mysql python pytorch scala scikit_learn selenium
 
-Visual Studio/C++,
-Proteus
 
-A very passionate and a hardworking individual open to learning and experience
-<!---
 nazeefa16/nazeefa16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
