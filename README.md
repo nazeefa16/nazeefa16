@@ -6,6 +6,8 @@
 - nazeefa1609@gmail.com
 - https://www.linkedin.com/in/nazeefa-muzammil-06a2011a5/
 
+[![Gmail](https://drive.google.com/file/d/1Fbf0PhMJZeg6UQGTVBcOvxDno6iB7PrG/view?usp=sharing)](mailto:nazeefa1609@gmail.com)
+
 -**I can work with the following tools for now**
 
 ![Matlab](https://www.pngwing.com/en/free-png-tovcg)
