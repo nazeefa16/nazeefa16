@@ -3,9 +3,9 @@
 
 
 - 👋 **Hi, I’m Nazeefa Muzammil**
-- 🎓 I'm currently getting my Bachelors degree in Electrical Engineering at NUST,Pakistan
-- 💻 I’m interested in projects related to Data Science, and Machine Learning
-- 💁 I’m open to diversity, and to collaborate
+- 🎓 I have been a part of the Data Science for Social Good (DSSG) fellowship at the University of Warwick
+- 💻 I have a profound fascination for leveraging cutting-edge machine learning techniques to unlock the hidden potential of data. 
+- 💁 Collaborating with diverse people makes me happy 
 
 👩‍💻 **Languages**
 
