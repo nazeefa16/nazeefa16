@@ -4,7 +4,7 @@
 
 - 👋 **Hi, I’m Nazeefa Muzammil**
 - 🎓 I have been a part of the Data Science for Social Good (DSSG) fellowship at the University of Warwick
-- 💻 I have a profound fascination for leveraging cutting-edge machine learning techniques to unlock the hidden potential of data. 
+- 💻 I have a profound fascination for leveraging cutting-edge machine learning techniques to unlock the hidden potential of data
 - 💁 Collaborating with diverse people makes me happy 
 
 👩‍💻 **Languages**
